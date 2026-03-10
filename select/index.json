@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "gradation",
+  "base_artist": "ハルニシオン",
+  "createdAt": "2026-03-10T01:39:50.408727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gradation",
+      "artist": "10cm",
+      "has_synced": true,
+      "path": "select/01_Gradation_10cm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "gradation",
+      "artist": "clammbon",
+      "has_synced": true,
+      "path": "select/02_gradation_clammbon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gradation [グラデーション]",
+      "artist": "clammbon",
+      "has_synced": true,
+      "path": "select/03_Gradation_[グラデーション]_clammbon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gradation",
+      "artist": "Haruka Tomatsu",
+      "has_synced": false,
+      "path": "select/04_Gradation_Haruka_Tomatsu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gradation (feat. Yuho Kitazawa)",
+      "artist": "KANA-BOON feat. 北澤ゆうほ",
+      "has_synced": true,
+      "path": "select/05_Gradation_(feat._Yuho_Kitazawa)_KANA-BOON_feat._北澤ゆうほ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gradation",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/06_Gradation_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gradation",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/07_Gradation_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gradation",
+      "artist": "10cm",
+      "has_synced": true,
+      "path": "select/08_Gradation_10cm.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gradation",
+      "artist": "Kana-Boon",
+      "has_synced": true,
+      "path": "select/09_Gradation_Kana-Boon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gradation (그라데이션)",
+      "artist": "10CM",
+      "has_synced": true,
+      "path": "select/10_Gradation_(그라데이션)_10CM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spring is a gradation",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/11_Spring_is_a_gradation_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "流星 & Gradation",
+      "artist": "やいり feat. IA",
+      "has_synced": false,
+      "path": "select/12_流星_&_Gradation_やいり_feat._IA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gradation",
+      "artist": "KANA-BOON feat. Yuuho Kitazawa",
+      "has_synced": true,
+      "path": "select/13_Gradation_KANA-BOON_feat._Yuuho_Kitazawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "gradation",
+      "artist": "ハルニシオン",
+      "has_synced": false,
+      "path": "select/pl_01_gradation_ハルニシオン.txt"
+    }
+  ]
+}
